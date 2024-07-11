@@ -1,20 +1,20 @@
 {
   "titles": {
-    "main": "Oshi no ko S1",
+    "main": "Oshi no ko",
     "url": "oshinoko",
     "jp": "推しの子",
-    "fr": "Oshi no ko Saison 1",
-    "en": "Oshi no ko Season 1"
+    "fr": "Oshi no ko",
+    "en": "Oshi no ko"
   },
   "synopsis": "",
   "images": {
     "main": "https://m.media-amazon.com/images/M/MV5BYTgxZjNlZWQtYjg1OS00NzY2LTkyZTctZDBkY2Y2ZWEyMjNlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg",
     "cover": "https://gameranx.com/wp-content/uploads/2022/12/trailer_2-1.png"
   },
-  "status": "Terminé",
+  "status": "En cours",
   "dates": {
     "start": "2023-04-12",
-    "end": "2023-06-28"
+    "end": ""
   },
   "studios": {
     "twoD": "Doga Kobo",
