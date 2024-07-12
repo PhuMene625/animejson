@@ -1,0 +1,35 @@
+{
+  "titles": {
+    "main": "My Hero Academia",
+    "url": "myheroacademia",
+    "jp": "僕のヒーローアカデミア",
+    "fr": "My Hero Academia",
+    "en": "My Hero Academia"
+  },
+  "synopsis": "",
+  "images": {
+    "main": "https://assets1.ignimgs.com/2016/04/11/my-hero-academia-poster-ajpg-6d9b63.jpg",
+    "cover": "https://staticg.sportskeeda.com/editor/2022/10/20f91-16657639247838-1920.jpg"
+  },
+  "status": "En cours",
+  "dates": {
+    "start": "2016-04-03",
+    "end": "2022-09-25"
+  },
+  "studios": {
+    "twoD": "Bones",
+    "threeD": ""
+  },
+  "keywords": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "genre": [
+    "Shonen"
+  ],
+  "theme": [
+    "Superhero",
+    "School"
+  ]
+}
