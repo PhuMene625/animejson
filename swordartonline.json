@@ -1,0 +1,35 @@
+{
+  "titles": {
+    "main": "Sword Art Online",
+    "url": "swordartonline",
+    "jp": "ソードアート・オンライン",
+    "fr": "Sword Art Online",
+    "en": "Sword Art Online"
+  },
+  "synopsis": "",
+  "images": {
+    "main": "https://yumei-anime.com/wp-content/uploads/2024/03/SAO.jpg",
+    "cover": "https://th.bing.com/th/id/OIP.w5xZ1A__EzbwuWw_hK2N1gAAAA?dpr=2&pid=ImgDetMain"
+  },
+  "status": "En cours",
+  "dates": {
+    "start": "2012-07-08",
+    "end": "2022-09-18"
+  },
+  "studios": {
+    "twoD": "A-1 Pictures",
+    "threeD": ""
+  },
+  "keywords": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "genre": [
+    "Science Fiction"
+  ],
+  "theme": [
+    "Virtual Reality",
+    "Gaming"
+  ]
+}
