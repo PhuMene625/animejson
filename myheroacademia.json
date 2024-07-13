@@ -13,35 +13,48 @@
   },
   "status": "En cours",
   "dates": {
-    "s1": {
-      "start": "03-04-2016",
-      "end": "26-07-2016"
-    }
-    "s2": {
-      "start": "01-04-2017"
-      "end": "30-09-2017"
-    }
-    "s3": {
-      "start": "07-04-2018"
-      "end": "29-09-2018"
-  }
-    "s4": {
-      "start": "12-10-2019"
-      "end": "04-04-2020"
-}
-    "s5": {
-      "start": "27-03-2021"
-      "end": "25-09-2021"
-    }
-     "s6": {
-      "start": "01-10-2022"
-      "end": "25-03-2023"
-     }
-     "s7": {
-      "start": "04-05-2024"
-      "end": ""
-     }
+    "start": "03-04-2016"
+    "end": "TBA"
   },
+
+  "seasons": {
+    "one": {
+      "name": "Saison 1"
+      "url": "myheroacademia1"
+      "picture": "https://static.wikia.nocookie.net/bokunoheroacademia/images/6/68/Season_1_Poster_2.png/revision/latest?cb=20180125030401"
+    }
+    "two":{
+      "name": "Saison 2"
+      "url": "myheroacademia2"
+      "picture": "https://static.wikia.nocookie.net/bokunoheroacademia/images/8/88/Season_2_Poster_3.png/revision/latest?cb=20170407221312"
+    }
+    "three":{
+      "name": "Saison 3"
+      "url": "myheroacademia3"
+      "picture": "https://static.wikia.nocookie.net/bokunoheroacademia/images/b/b1/Season_3_Poster_1.png/revision/latest?cb=20180219032852"
+    }
+    "four":{
+      "name": "Saison4"
+      "url": "myheroacademia4"
+      "picture": "https://static.wikia.nocookie.net/bokunoheroacademia/images/e/e4/Season_4_Poster_3.png/revision/latest?cb=20191230035840"
+    }
+    "five":{
+      "name": "Saison 5"
+      "url": "myheroacademia5"
+      "picture": "https://static.wikia.nocookie.net/bokunoheroacademia/images/9/99/Season_5_Poster_2.png/revision/latest?cb=20210203165659"
+    }
+    "six":{
+      "name": "Saison 6"
+      "url": "myheroacademia6"
+      "picture": "https://static.wikia.nocookie.net/bokunoheroacademia/images/9/95/Season_6_Poster_3.png/revision/latest?cb=20220724112708"
+    }
+    "seven":{
+      "name": "Saison 7"
+      "url": "myheroacademia7"
+      "picture": "https://static.wikia.nocookie.net/bokunoheroacademia/images/9/9c/Season_7_Poster_3.png/revision/latest?cb=20240319200343"
+    }
+  },
+
   "studios": {
     "twoD": "Bones",
     "threeD": ""
@@ -58,5 +71,5 @@
   "theme": [
     "Superhero",
     "School"
-  ]
+  ],
 }
