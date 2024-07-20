@@ -1,0 +1,47 @@
+{
+  "titles": {
+    "main": "Demon Slayer: Kimetsu no Yaiba",
+    "url": "demonslayer",
+    "jp": "鬼滅の刃",
+    "fr": "Demon Slayer: Kimetsu no Yaiba",
+    "en": "Demon Slayer: Kimetsu no Yaiba"
+  },
+  "synopsis": "",
+  "images": {
+    "main": "",
+    "cover": ""
+  },
+  "status": "En cours",
+  "dates": {
+    "start": "06-04-2019",
+    "end": "TBA"
+  },
+  "seasons": {
+    "one": {
+      "name": "Saison 1",
+      "url": "demonslayer1",
+      "picture": ""
+    },
+    "two": {
+      "name": "Saison 2",
+      "url": "demonslayer2",
+      "picture": ""
+    }
+  },
+  "studios": {
+    "twoD": "Ufotable",
+    "threeD": ""
+  },
+  "keywords": [
+    "demonslayer",
+    "tanjiro",
+    "nezuko"
+  ],
+  "genre": [
+    "Shonen"
+  ],
+  "theme": [
+    "Dark Fantasy",
+    "Action"
+  ]
+}
