@@ -1,0 +1,42 @@
+{
+  "titles": {
+    "main": "Chainsaw Man",
+    "url": "chainsawman",
+    "jp": "チェンソーマン",
+    "fr": "Chainsaw Man",
+    "en": "Chainsaw Man"
+  },
+  "synopsis": "",
+  "images": {
+    "main": "",
+    "cover": ""
+  },
+  "status": "En cours",
+  "dates": {
+    "start": "12-10-2022",
+    "end": "TBA"
+  },
+  "seasons": {
+    "one": {
+      "name": "Saison 1",
+      "url": "chainsawman1",
+      "picture": ""
+    }
+  },
+  "studios": {
+    "twoD": "MAPPA",
+    "threeD": ""
+  },
+  "keywords": [
+    "chainsawman",
+    "denji",
+    "makima"
+  ],
+  "genre": [
+    "Shonen"
+  ],
+  "theme": [
+    "Dark Fantasy",
+    "Action"
+  ]
+}
