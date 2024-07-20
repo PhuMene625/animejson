@@ -1,0 +1,42 @@
+{
+  "titles": {
+    "main": "Jujutsu Kaisen",
+    "url": "jujutsukaisen",
+    "jp": "呪術廻戦",
+    "fr": "Jujutsu Kaisen",
+    "en": "Jujutsu Kaisen"
+  },
+  "synopsis": "",
+  "images": {
+    "main": "",
+    "cover": ""
+  },
+  "status": "En cours",
+  "dates": {
+    "start": "03-10-2020",
+    "end": "TBA"
+  },
+  "seasons": {
+    "one": {
+      "name": "Saison 1",
+      "url": "jujutsukaisen1",
+      "picture": ""
+    }
+  },
+  "studios": {
+    "twoD": "MAPPA",
+    "threeD": ""
+  },
+  "keywords": [
+    "jujutsukaisen",
+    "gojo",
+    "satoru"
+  ],
+  "genre": [
+    "Shonen"
+  ],
+  "theme": [
+    "Dark Fantasy",
+    "Action"
+  ]
+}
